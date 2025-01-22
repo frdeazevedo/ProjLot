@@ -1,6 +1,11 @@
 # Explicando o Algoritmo
 Itera sobre a lista de candidatos, classificados em ordem de convocação, do primeiro ao último colocado. Para cada candidato, itera sobre a lista de lotações em ordem de preferência (da mais preferida a menos preferida), se a lotação tiver vaga disponível, preenche o candidato nessa lotação e passa-se ao próximo candidato.
 
+# Uso
+```
+projlot <Arquivo de Lotacoes> <Arquivo de Candidatos>
+```
+
 # Formato dos Arquivos de Entrada
 ## Arquivo de Lotações e Vagas
 O arquivo que contém as lotações e suas respectivas vagas deve ser formatado com o seguinte padrão:
