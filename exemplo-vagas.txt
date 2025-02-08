@@ -1,0 +1,10 @@
+Boa Vista,2
+Tabatinga,3
+Pacaraima,1
+Corumbá,2
+Assis Brasil,3
+Guajará-Mirim,2
+Porto Murtinho,1
+Amambai,2
+Ladário,1
+Paranhos,3

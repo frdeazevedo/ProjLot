@@ -41,7 +41,7 @@ class Candidato:
         self.nome = nome
         self.posicao = posicao
         self.ranking_lotacoes = ranking_lotacoes
-        self.lotacao = "Nenhuma"
+        self.lotacao = Lotacao("Nenhuma", 0)
         self.prioridade_lotacao = 0
 
 vagas_lotacoes = []

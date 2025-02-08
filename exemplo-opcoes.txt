@@ -1,0 +1,20 @@
+1,João Silva,Boa Vista,Tabatinga,Pacaraima,Corumbá,Assis Brasil,Guajará-Mirim,Porto Murtinho,Amambai,Ladário
+2,Maria Oliveira,Tabatinga,Boa Vista,Pacaraima,Assis Brasil,Guajará-Mirim,Corumbá,Porto Murtinho,Amambai,Ladário
+3,Carlos Santos,Assis Brasil,Boa Vista,Tabatinga,Corumbá,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+4,Ana Souza,Boa Vista,Tabatinga,Pacaraima,Assis Brasil,Guajará-Mirim,Corumbá,Porto Murtinho,Amambai,Ladário
+5,Fernando Lima,Pacaraima,Assis Brasil,Tabatinga,Guajará-Mirim,Corumbá,Porto Murtinho,Amambai,Ladário,Paranhos
+6,Lucas Martins,Guajará-Mirim,Boa Vista,Tabatinga,Assis Brasil,Corumbá,Porto Murtinho,Amambai,Ladário,Paranhos
+7,Juliana Silva,Corumbá,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+8,Mariana Costa,Porto Murtinho,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Corumbá,Amambai,Ladário,Paranhos
+9,Roberto Oliveira,Amambai,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Corumbá,Porto Murtinho,Ladário,Paranhos
+10,Fábio Pereira,Assis Brasil,Boa Vista,Tabatinga,Corumbá,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+11,Lúcia Almeida,Corumbá,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+12,Daniela Costa,Porto Murtinho,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Corumbá,Amambai,Ladário,Paranhos
+13,Vitor Souza,Amambai,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Corumbá,Porto Murtinho,Ladário,Paranhos
+14,Lúcia Pereira,Assis Brasil,Boa Vista,Tabatinga,Corumbá,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+15,Henrique Oliveira,Tabatinga,Boa Vista,Pacaraima,Assis Brasil,Guajará-Mirim,Corumbá,Porto Murtinho,Amambai,Ladário
+16,Cláudia Santos,Corumbá,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+17,Leandro Souza,Porto Murtinho,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Corumbá,Amambai,Ladário,Paranhos
+18,Sandra Lima,Amambai,Assis Brasil,Boa Vista,Tabatinga,Guajará-Mirim,Corumbá,Porto Murtinho,Ladário,Paranhos
+19,Roberta Oliveira,Assis Brasil,Boa Vista,Tabatinga,Corumbá,Guajará-Mirim,Porto Murtinho,Amambai,Ladário,Paranhos
+20,Ricardo Silva,Tabatinga,Boa Vista,Pacaraima,Assis Brasil,Guajará-Mirim,Corumbá,Porto Murtinho,Amambai,Ladário,Paranhos
